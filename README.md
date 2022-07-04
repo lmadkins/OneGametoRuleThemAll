@@ -1,5 +1,5 @@
 # One Game to Rule Them All
-###  A 'Lord of the Rings' themed interactive browser game of Memory, made with Javascript, HTML, and CSS
+###  A 'Lord of the Rings' themed interactive browser game of Memory, made with Javascript, HTML, and CSS made for a class assignment in 2015
 
 ![Image of browser game with card tiles, two of which are flipped over and show images of lord of the rings characters on them. At the top of the page text reads: "One Game to Rule Them All" ](/gameimg1.png)
 
